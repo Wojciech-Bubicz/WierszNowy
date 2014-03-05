@@ -3,3 +3,5 @@ WstanKochanieMojeSLicznie
 WypijKawePysznaJakPorannaRosa
 
 jesli kawa==dobra to programuj
+
+zegnaj kochanie
