@@ -2,4 +2,4 @@ WstanDupo
 
 WypijKaweChamie
 
-jesli kawa==dobra to programuj
+jesli kawa==sik to programuj
