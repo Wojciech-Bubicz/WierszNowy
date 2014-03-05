@@ -1,5 +1,5 @@
 WstanKochanieMojeSLicznie
 
-WypijKawe
+WypijKawePysznaJakPorannaRosa
 
 jesli kawa==dobra to programuj
